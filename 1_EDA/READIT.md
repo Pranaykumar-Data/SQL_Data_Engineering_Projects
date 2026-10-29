@@ -1,7 +1,7 @@
 
 # Exploratory Data Analysis with SQL: Data Engineer Job Market
 
-![EDA Project Overview](/Images\1_1_Project1_EDA.png)
+![EDA Project Overview](../Images\1_1_Project1_EDA.png)
 
 ## Project Overview
 
@@ -49,7 +49,7 @@ To answer these questions, I analyzed job posting data using SQL.
 
 The project uses a data warehouse based on a star schema design.
 
-![Data Warehouse Schema](/Images\1_2_Data_Warehouse.png)
+![Data Warehouse Schema](../Images\1_2_Data_Warehouse.png)
 
 The main tables used in this project are:
 
